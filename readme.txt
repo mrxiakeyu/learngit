@@ -4,3 +4,5 @@ git is good
 git is tick change
 git wo laopo
 git haonan
+git bunan
+wo lai lo
