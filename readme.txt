@@ -6,3 +6,4 @@ git wo laopo
 git haonan
 git bunan
 wo lai lo
+create a new branch is quick
